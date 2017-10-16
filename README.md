@@ -1,6 +1,23 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+Script to check friends online in [vk.com](https://vk.com/)
+
+#### How to run:
+
+```
+python vk_friends_online.py
+```
+
+then follow on-screen instruction
+
+#### Example output:
+
+```
+You have 3 friends online:
+Alex Ivanov
+Danila Petrov
+Sergey Sidorov
+```
 
 # How to Install
 
